@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.element:nth-child(odd){
+    background-color: rgb(255, 150, 150);
+    font-family: Verdana, "DejaVu sans" , sans-serif;
+}
+
+#first{
+    color: rgb(116, 116, 255);
+    font-size: 36px;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#second{
+    background-color: rgb(148, 255, 148);
+    font-size: 24px;
+    font-weight: bold;
+}
